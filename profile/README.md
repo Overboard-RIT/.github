@@ -13,13 +13,10 @@ Ahoy matee! Thar be the development team behind **Overboard**, a senior capstone
 
 ## Contact & Socials  
 
-Stay connected with us:  
+### Stay connected with us:  
 - **Instagram**: [@overboard.rit](https://www.instagram.com/overboard.rit)  
 - **LinkedIn**: [Overboard RIT](https://www.linkedin.com/company/overboard-rit/)  
 - **Website**: [Linktree](https://linktr.ee/overboardrit)  
-
-## Contact
-This project was developed as part of the **New Media Capstone 2025** at **Rochester Institute of Technology (RIT)** and was created for **Imagine RIT 2025**.
 
 ### Team Members
 - **Andrew Black**
