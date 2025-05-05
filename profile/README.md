@@ -16,7 +16,7 @@ Ahoy matee! Thar be the development team behind **Overboard**, a senior capstone
 ### Stay connected with us:  
 - **Instagram**: [@overboard.rit](https://www.instagram.com/overboard.rit)  
 - **LinkedIn**: [Overboard RIT](https://www.linkedin.com/company/overboard-rit/)  
-- **Website**: [Linktree](https://linktr.ee/overboardrit)  
+- **Website**: [Overboard](https://overboard.framer.website/)  
 
 ### Team Members
 - **Andrew Black**
